@@ -1,0 +1,14 @@
+"mediaLibraryAccessTitle" = "No media library access";
+"mediaLibraryAccessMessage" = "Please grant media library access in the Settings app, in the \"Privacy ⇾ Media & Apple Music\" section.";
+"notEnoughArtistsTitle" = "Not enough artists";
+"notEnoughArtistsMessage" = "To be able to play the game, you need to have at least 3 different artists in your music library.";
+"tryAgainAction" = "Try again";
+"configureGame" = "Configure how you want to play";
+"yourName" = "Your name";
+"playAction" = "Play!";
+"yourScore" = "Your Score";
+"playAgainAction" = "Play again";
+"profile" = "Profile";
+"logoff" = "Logoff";
+"prepositionOf" = " of ";
+"secondsRemaining" = "%1 seconds";
